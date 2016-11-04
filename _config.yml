@@ -1,0 +1,24 @@
+title: Gilson Olegario
+project_name: Gilson Olegario
+description: >
+  G=gilsonolegario;echo \$G@gmail.com
+repository_url: https://github.com/gilsonolegario/gilsonolegario.github.io
+repository_shorthand: gilsonolegario/gilsonolegario.github.io
+
+baseurl: ""
+
+
+markdown: kramdown
+
+
+# Owner/author information
+owner:
+  name:         Gilson Olegario  
+  avatar:         bio-photo.png
+  bio:            
+  email:          gilsonolegario@gmail.com
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  home:	http://gilsonolegario.github.io
+  googlescholar: https://scholar.google.com.br/citations?user=JII3o3EAAAAJ&hl
+  # For Google Authorship https://plus.google.com/authorship
+  lattes: 5551726567869235

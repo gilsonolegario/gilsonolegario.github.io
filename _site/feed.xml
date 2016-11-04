@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gilson Olegario</title>
+    <description>G=gilsonolegario;echo \$G@gmail.com
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 04 Nov 2016 13:59:50 -0200</pubDate>
+    <lastBuildDate>Fri, 04 Nov 2016 13:59:50 -0200</lastBuildDate>
+    <generator>Jekyll v3.3.0</generator>
+    
+  </channel>
+</rss>

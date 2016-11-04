@@ -2,9 +2,6 @@
 layout: default
 ---
 
-Repositório no [GitHub](https://github.com/gilsonolegario) e perfil no
-[Academia.edu](http://ufsm.academia.edu/GilsonOlegario)
-
 
 ### Bio.
 

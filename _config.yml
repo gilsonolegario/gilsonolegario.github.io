@@ -13,12 +13,12 @@ markdown: kramdown
 
 # Owner/author information
 owner:
-  name:         Gilson Olegario  
+  name:
   avatar:         bio-photo.png
-  bio:            
+  bio:
   email:          gilsonolegario@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   home:	http://gilsonolegario.github.io
-  googlescholar: https://scholar.google.com.br/citations?user=JII3o3EAAAAJ&hl
   # For Google Authorship https://plus.google.com/authorship
-  lattes: 5551726567869235
+  lattes: 9944093011514978
+  academia: GilsonOlegario

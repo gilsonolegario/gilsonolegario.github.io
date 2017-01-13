@@ -38,12 +38,16 @@ próximos?](http://revistas.pucsp.br/index.php/cognitio/article/view/10865)*.
 
 CARNAP, R. (1936) *[Da epistemologia à lógica da
 ciência](http://gredos.usal.es/jspui/bitstream/10366/123999/1/7.-_Olegario_da_Silva-Carnap.pdf)*.
-**Disputatio: Philosophical Research Bulletin**. Vol. 1, N. 1, pp.
-131-135, 2012.
+**Disputatio: Philosophical Research Bulletin**. 1:1 (2012): pp.
+131-135.
 
 CARNAP, R. (1931) *[Superação da metafísica pela análise lógica da
 linguagem](https://github.com/gilsonolegario/gilsonolegario.github.io/blob/master/Carnap-superacao-metafisica.pdf)*.
 **Não publicado**.
+
+CARNAP, R. (1963) *[W. V. Quine sobre a Verdade Lógica](http://gredos.usal.es/jspui/bitstream/10366/132034/1/2016%20Carnap%20Quine.pdf)*. **Disputatio. Philosophical Research Bulletin** 5:6 (2016): pp. 445–455.
+
+
 
 ##### Arquivos Latex
 

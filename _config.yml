@@ -1,7 +1,7 @@
 title: Gilson Olegario
 project_name: Gilson Olegario
 description: >
-  G=gilsonolegario;echo \$G@gmail.com
+  G=gilsonolegario;echo $G@gmail.com
 repository_url: https://github.com/gilsonolegario/gilsonolegario.github.io
 repository_shorthand: gilsonolegario/gilsonolegario.github.io
 

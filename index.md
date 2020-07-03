@@ -6,10 +6,10 @@ layout: default
 ### Bio.
 
 Possuo graduação em Filosofia Licenciatura Plena pela Universidade
-Federal de Santa Maria (2011) e mestrado pelo Programa de Pós-Graduação
-em Filosofia da UFSM com a dissertação: *["Sobre Estruturas Linguísticas
+Federal de Santa Maria (2011), mestrado pelo Programa de Pós-Graduação
+em Filosofia da UFSM com a dissertação: ["Sobre Estruturas Linguísticas
 e Paradigmas: as releituras recentes de Carnap e
-Kuhn"](http://w3.ufsm.br/ppgf/wp-content/uploads/2011/10/dissertacao.pdf)*.
+Kuhn"](http://w3.ufsm.br/ppgf/wp-content/uploads/2011/10/dissertacao.pdf) e doutorado em Filosofia pela Universidade Estadual de Campinas (Unicamp) com a tese ["Os empiristas vão à missa: compromissos ontológicos e *frameworks* linguísticos"](http://repositorio.unicamp.br/bitstream/REPOSIP/342469/1/Silva_GilsonOlegarioDa_D.pdf).
 
 ##### Publicações
 
@@ -41,9 +41,11 @@ ciência](http://gredos.usal.es/jspui/bitstream/10366/123999/1/7.-_Olegario_da_S
 **Disputatio: Philosophical Research Bulletin**. 1:1 (2012): pp.
 131-135.
 
-CARNAP, R. (1931) *[Superação da metafísica pela análise lógica da
-linguagem](https://github.com/gilsonolegario/gilsonolegario.github.io/blob/master/Carnap-superacao-metafisica.pdf)*.
-**Não publicado**.
+CARNAP, R. (1936) *[Short analysis and translation of «Von Gott und Seele: Scheinfragen in Metaphysik und Theologie» by Rudolf Carnap](https://zenodo.org/record/3633699/files/2019daSilvaGonzales.pdf)*.
+**Disputatio: Philosophical Research Bulletin**. 8:11 (2019): pp. 1-33. DOI: [10.5281/zenodo.3408704](10.5281/zenodo.3408704)
+
+CARNAP, R. (1936) *[Short analysis and translation of «Die Überwindung der Metaphysik durch logische Analyse der Sprache» by Rudolf Carnap](https://zenodo.org/record/3633698/files/2019daSilva.pdf)*.
+**Disputatio: Philosophical Research Bulletin**. 8:11 (2019): pp. 33-59. DOI: [10.5281/zenodo.3408684](10.5281/zenodo.3408684)
 
 CARNAP, R. (1963) *[W. V. Quine sobre a Verdade Lógica](http://gredos.usal.es/jspui/bitstream/10366/132034/1/2016%20Carnap%20Quine.pdf)*. **Disputatio. Philosophical Research Bulletin** 5:6 (2016): pp. 445–455.
 

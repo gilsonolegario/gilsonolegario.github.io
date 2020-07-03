@@ -41,10 +41,10 @@ ciência](http://gredos.usal.es/jspui/bitstream/10366/123999/1/7.-_Olegario_da_S
 **Disputatio: Philosophical Research Bulletin**. 1:1 (2012): pp.
 131-135.
 
-CARNAP, R. (1936) *[Short analysis and translation of «Von Gott und Seele: Scheinfragen in Metaphysik und Theologie» by Rudolf Carnap](https://zenodo.org/record/3633699/files/2019daSilvaGonzales.pdf)*.
+CARNAP, R. (1936) *[Breve análise e tradução de «Von Gott und Seele: Scheinfragen in Metaphysik und Theologie» de Rudolf Carnap](https://zenodo.org/record/3633699/files/2019daSilvaGonzales.pdf)*.
 **Disputatio: Philosophical Research Bulletin**. 8:11 (2019): pp. 1-33. DOI: [10.5281/zenodo.3408704](10.5281/zenodo.3408704)
 
-CARNAP, R. (1936) *[Short analysis and translation of «Die Überwindung der Metaphysik durch logische Analyse der Sprache» by Rudolf Carnap](https://zenodo.org/record/3633698/files/2019daSilva.pdf)*.
+CARNAP, R. (1936) *[Breve análise e tradução de «Die Überwindung der Metaphysik durch logische Analyse der Sprache» de Rudolf Carnap.](https://zenodo.org/record/3633698/files/2019daSilva.pdf)*.
 **Disputatio: Philosophical Research Bulletin**. 8:11 (2019): pp. 33-59. DOI: [10.5281/zenodo.3408684](10.5281/zenodo.3408684)
 
 CARNAP, R. (1963) *[W. V. Quine sobre a Verdade Lógica](http://gredos.usal.es/jspui/bitstream/10366/132034/1/2016%20Carnap%20Quine.pdf)*. **Disputatio. Philosophical Research Bulletin** 5:6 (2016): pp. 445–455.
@@ -55,4 +55,5 @@ CARNAP, R. (1963) *[W. V. Quine sobre a Verdade Lógica](http://gredos.usal.es/j
 
 Modelo Latex para dissertação MDT-UFSM. Disponível no repositório do
 [GitHub](https://github.com/issoeocio/Nova-Classe-e-Modelo-Latex-MDT-UFSM)
+
 

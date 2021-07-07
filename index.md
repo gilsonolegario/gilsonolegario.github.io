@@ -14,7 +14,7 @@ Kuhn"](http://w3.ufsm.br/ppgf/wp-content/uploads/2011/10/dissertacao.pdf) e dout
 ##### Publicações
 
 
-ARROYO, R. W.,  OLEGARIO, G. *[Against ‘Interpretation’: Quantum Mechanics Beyond Syntax and Semantics](https://raw.githubusercontent.com/gilsonolegario/gilsonolegario.github.io/master/against_interpretation_aam_axiomathes.pdf) **Axiomathes**. No prelo.
+ARROYO, R. W.,  OLEGARIO, G. *[Against ‘Interpretation’: Quantum Mechanics Beyond Syntax and Semantics](https://github.com/gilsonolegario/gilsonolegario.github.io/blob/9c4f84ee77fa08a6782507c9bdb118b085a96f84/against_interpretation_aam_axiomathes.pdf) **Axiomathes**. No prelo.
 
 
 OLEGARIO, G. *[Sobre estruturas linguísticas e paradigmas: as releituras

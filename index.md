@@ -9,7 +9,7 @@ Possuo graduação em Filosofia Licenciatura Plena pela Universidade
 Federal de Santa Maria (2011), mestrado pelo Programa de Pós-Graduação
 em Filosofia da UFSM com a dissertação: ["Sobre Estruturas Linguísticas
 e Paradigmas: as releituras recentes de Carnap e
-Kuhn"](http://w3.ufsm.br/ppgf/wp-content/uploads/2011/10/dissertacao.pdf) e doutorado em Filosofia pela Universidade Estadual de Campinas (Unicamp) com a tese ["Os empiristas vão à missa: compromissos ontológicos e *frameworks* linguísticos"](http://www.repositorio.unicamp.br/Busca/Download?codigoArquivo=498516).
+Kuhn"](http://w3.ufsm.br/ppgf/wp-content/uploads/2011/10/dissertacao.pdf) e doutorado em Filosofia pela Universidade Estadual de Campinas (Unicamp) com a tese ["Os empiristas vão à missa: compromissos ontológicos e *frameworks* linguísticos"](https://github.com/gilsonolegario/gilsonolegario.github.io/blob/93264f0972ca1d03e4ddfb7ebe8cb0ec6659502f/Silva_GilsonOlegarioDa_D.pdf).
 
 ##### Publicações
 
